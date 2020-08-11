@@ -5,8 +5,4 @@ hi!
 
 Hello updating
 
-<<<<<<< Updated upstream
-Hi!
-=======
 Hello
->>>>>>> Stashed changes
